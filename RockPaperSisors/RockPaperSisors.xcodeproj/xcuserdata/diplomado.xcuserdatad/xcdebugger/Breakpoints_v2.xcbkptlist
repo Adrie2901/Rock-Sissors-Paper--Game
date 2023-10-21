@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "F08FFE92-DF3E-430A-8A7A-A6AEC13750E6"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "437BFBB8-5B04-46FF-9F81-948736E2EEAC"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RockPaperSisors/GameScreen/GameViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "108"
+            endingLineNumber = "108"
+            landmarkName = "gameModeForRounds(userChoice:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "437BFBB8-5B04-46FF-9F81-948736E2EEAC - 83e7e30d16c29e1a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RockPaperSisors.GameViewController.gameModeForRounds(userChoice: RockPaperSisors.choise) -&gt; ()"
+                  moduleName = "RockPaperSisors"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/diplomado/Documents/EntregablesGit/second-module-final-exercise-rock-paper-scissors-Adrie2901/RockPaperSisors/RockPaperSisors/GameScreen/GameViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "103"
+                  endingLineNumber = "103"
+                  offsetFromSymbolStart = "240">
+               </Location>
+               <Location
+                  uuid = "437BFBB8-5B04-46FF-9F81-948736E2EEAC - 83e7e30d16c29e79"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RockPaperSisors.GameViewController.gameModeForRounds(userChoice: RockPaperSisors.choise) -&gt; ()"
+                  moduleName = "RockPaperSisors"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/diplomado/Documents/EntregablesGit/second-module-final-exercise-rock-paper-scissors-Adrie2901/RockPaperSisors/RockPaperSisors/GameScreen/GameViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "104"
+                  endingLineNumber = "104"
+                  offsetFromSymbolStart = "240">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C704B481-42F0-4B58-898D-5249E8E014FD"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RockPaperSisors/GameScreen/GameViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "207"
+            endingLineNumber = "207"
+            landmarkName = "gameModeForPoints(userChoice:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "C704B481-42F0-4B58-898D-5249E8E014FD - b381eee91268e5f6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RockPaperSisors.GameViewController.gameModeForPoints(userChoice: RockPaperSisors.choise) -&gt; ()"
+                  moduleName = "RockPaperSisors"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/diplomado/Documents/EntregablesGit/second-module-final-exercise-rock-paper-scissors-Adrie2901/RockPaperSisors/RockPaperSisors/GameScreen/GameViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "209"
+                  endingLineNumber = "209"
+                  offsetFromSymbolStart = "240">
+               </Location>
+               <Location
+                  uuid = "C704B481-42F0-4B58-898D-5249E8E014FD - b381eee91268e5b4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RockPaperSisors.GameViewController.gameModeForPoints(userChoice: RockPaperSisors.choise) -&gt; ()"
+                  moduleName = "RockPaperSisors"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/diplomado/Documents/EntregablesGit/second-module-final-exercise-rock-paper-scissors-Adrie2901/RockPaperSisors/RockPaperSisors/GameScreen/GameViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "207"
+                  endingLineNumber = "207"
+                  offsetFromSymbolStart = "204">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9D9A9915-1E44-48A8-B152-0794CE4FD5B4"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RockPaperSisors/GameScreen/GameViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "206"
+            endingLineNumber = "206"
+            landmarkName = "gameModeForPoints(userChoice:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "9D9A9915-1E44-48A8-B152-0794CE4FD5B4 - b381eee91268e555"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RockPaperSisors.GameViewController.gameModeForPoints(userChoice: RockPaperSisors.choise) -&gt; ()"
+                  moduleName = "RockPaperSisors"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/diplomado/Documents/EntregablesGit/second-module-final-exercise-rock-paper-scissors-Adrie2901/RockPaperSisors/RockPaperSisors/GameScreen/GameViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "206"
+                  endingLineNumber = "206"
+                  offsetFromSymbolStart = "204">
+               </Location>
+               <Location
+                  uuid = "9D9A9915-1E44-48A8-B152-0794CE4FD5B4 - b381eee91268e555"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RockPaperSisors.GameViewController.gameModeForPoints(userChoice: RockPaperSisors.choise) -&gt; ()"
+                  moduleName = "RockPaperSisors"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/diplomado/Documents/EntregablesGit/second-module-final-exercise-rock-paper-scissors-Adrie2901/RockPaperSisors/RockPaperSisors/GameScreen/GameViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "206"
+                  endingLineNumber = "206"
+                  offsetFromSymbolStart = "192">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
