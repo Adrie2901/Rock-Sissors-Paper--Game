@@ -1,13 +1,13 @@
-![Captura de pantalla 2023-10-27 a la(s) 16 03 47](https://github.com/Adrie2901/Rock-Sissors-Paper--Game/assets/105026315/bf410270-0ca4-4e63-89a8-73d230b13de4)# Rock, Paper, Scissors✂️🪨📄
+# Rock, Paper, Scissors✂️🪨📄
 
 Este es un juego móvil que simula el clásico juego de "Piedra, Papel o Tijera".
 
 ## Capturas de Pantalla
 
-![Captura de pantalla 1](images/Captura%20de%20pantalla%202023-10-27%20a%20las%2016.03.47.jpg){:width="50px"}
-![Captura de pantalla 2](images/Captura%20de%20pantalla%202023-10-27%20a%20las%2016.03.51.jpg){:width="50px"}
-![Captura de pantalla 3](images/Captura%20de%20pantalla%202023-10-27%20a%20las%2016.04.10.jpg){:width="50px"}
-![Captura de pantalla 4](images/Captura%20de%20pantalla%202023-10-27%20a%20las%2016.04.39.jpg){:width="50px"}
+![Captura de pantalla 1](images/Captura%20de%20pantalla%202023-10-27%20a%20las%2016.03.47.jpg)
+![Captura de pantalla 2](images/Captura%20de%20pantalla%202023-10-27%20a%20las%2016.03.51.jpg)
+![Captura de pantalla 3](images/Captura%20de%20pantalla%202023-10-27%20a%20las%2016.04.10.jpg)
+![Captura de pantalla 4](images/Captura%20de%20pantalla%202023-10-27%20a%20las%2016.04.39.jpg)
 
 
 
