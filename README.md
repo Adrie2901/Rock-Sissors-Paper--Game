@@ -4,10 +4,10 @@ Este es un juego móvil que simula el clásico juego de "Piedra, Papel o Tijera"
 
 ## Capturas de Pantalla
 
-![Captura de pantalla 1](images/Captura%20de%20pantalla%202023-10-27%20a%20las%2016.03.47.jpg)
-![Captura de pantalla 2](images/Captura%20de%20pantalla%202023-10-27%20a%20las%2016.03.51.jpg)
-![Captura de pantalla 3](images/Captura%20de%20pantalla%202023-10-27%20a%20las%2016.04.10.jpg)
-![Captura de pantalla 4](images/Captura%20de%20pantalla%202023-10-27%20a%20las%2016.04.39.jpg)
+![Captura de pantalla 1](imagenes/PantallaInicio.jpg)
+![Captura de pantalla 2](imagenes/Jugabilidad.jpg)
+![Captura de pantalla 3](imagenes/ModoJuego.jpg)
+![Captura de pantalla 4](imagenes/Main.jpg)
 
 
 
