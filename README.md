@@ -1,6 +1,6 @@
 # Rock, Paper, Scissors✂️🪨📄
 
-Este es un juego móvil que simula el clásico juego de "Piedra, Papel o Tijera".
+Este es un juego móvil que simula el clásico juego de "Piedra, Papel o Tijera" con dos versiones de juego, por puntos o por rondas.
 
 ## Capturas de Pantalla
 
